@@ -10,9 +10,9 @@ Este projeto explora os dados da Fórmula 1 com foco em pilotos, equipes e mudan
 Realizar uma análise exploratória dos dados da F1 entre 1950 e 2024, respondendo perguntas como:
 
 - Quais pilotos dominaram cada década?
-- Como evoluiu a idade média dos pilotos?
-- Quais equipes e pilotos acumularam mais voltas rápidas?
-- Mudanças de regulamento impactaram a performance?
+- Qual a evolução da participação das equipes e pilotos ao longo dos anos?
+- Quais pilotos acumularam mais voltas mais rápidas?
+- Há alguma relação visível entre eventos históricos (como mudanças de regulamento) e alterações nos padrões de performance?
 
 ## 📁 Fontes de Dados
 
