@@ -1,10 +1,6 @@
-# PUCRJ-AD-MVP
-Projeto MVP para compor nota da Pós Graduação de Ciência de Dados e Analytics, Sprint de Análise de Dados e Boas Práticas, na PUC-RJ
-
-
 # 📊 Datasets - 🏎️ Análise Histórica da Fórmula 1 (1950–2024)
 
-Este branch contém os arquivos de dados utilizados no projeto **🏎️ Análise Histórica da Fórmula 1 (1950–2024)**.
+Este branch contém os arquivos de dados utilizados no projeto **🏎️ Análise Histórica da Fórmula 1 (1950–2024)**, Projeto MVP para compor nota da Pós Graduação de Ciência de Dados e Analytics, Sprint de Análise de Dados e Boas Práticas, na PUC-RJ
 
 ## 📁 Estrutura dos Dados
 
